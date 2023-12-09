@@ -1,0 +1,12 @@
+Таблица рекордов:
+Bot_Arkasha - 30
+Bot_Maksim - 30
+Qrtilted - 28
+Vladislav - 25
+Lolik_Bolik - 23
+Walli - 21
+Zeus - 20
+Magnus - 19
+Pasha_Xyesos - 19
+Roman - 8
+Количество строк: 10
